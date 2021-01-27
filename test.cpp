@@ -1,2 +1,3 @@
 hello
 __cpp_threadsafe_static_init
+__EDG_CONSTEXPR_ENABLED__ 
